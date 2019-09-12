@@ -11,7 +11,7 @@ We created several additional data variables including year, ordinal date and se
 
 A simple decision tree. 
 
-![Tree](https://github.com/ElsitaK/MachineLearning-with-Trees/SImpleDecisionTree.png)
+![Tree](https://github.com/ElsitaK/MachineLearning-with-Trees/blob/master/SImpleDecisionTree.png)
 
 
 
