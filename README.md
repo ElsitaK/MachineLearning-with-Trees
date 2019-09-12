@@ -7,6 +7,12 @@ This code originates from the DataCamp course "Machine Learning with Tree Based 
 To create our historic data set we classified each data instance representing one day as either ‘present’ or ‘absent’ based on whether an adult butterfly was observed on that day. We then amassed climate data for every day during the same time period. We collected this climate data from the METDATA (also known as gridMET) gridded surface meteorological dataset (Abotzoglou, 2013) which maps surface weather variables at ~4km resolution (http://clim-engine.appspot.com/#). Alongside the daily presence/absence data, we added daily measures of 7 climate variables. These were maximum temperature, minimum temperature, precipitation, maximum relative humidity, minimum relative humidity, specific humidity and downward shortwave radiation. 
 We created several additional data variables including year, ordinal date and several variables pertaining to the calculation of Growing Degree Days (GDD).
 
+## Results
+
+A simple decision tree. 
+
+
+
 ## Required R packages
 
 - rpart
