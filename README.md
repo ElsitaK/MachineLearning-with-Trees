@@ -9,7 +9,7 @@ We created several additional data variables including year, ordinal date and se
 
 ## Results
 
-A simple decision tree. 
+The code outputs simple decision tree (below) and a confusion matrix. 
 
 ![Tree](https://github.com/ElsitaK/MachineLearning-with-Trees/blob/master/SImpleDecisionTree.png)
 
