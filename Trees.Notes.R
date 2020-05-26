@@ -57,7 +57,6 @@ print(train_model)
 ## CONFUSION MATRIX
 
 library(caret)
-library(e1071) #not sure why we need this but was specified in error code
 
 # Generate predicted classes using the model object
 class_prediction <- predict(object = train_model,  
